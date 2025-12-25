@@ -1,5 +1,8 @@
 # 🕵️ The Churn Detective: Telco Customer Retention Strategy
 
+> *Personal Project on learning about End-to-End Data analysis procedure using Python pandas, numpy, matplotlib, seaborn, scikit-learn, and ydata-profiling. Based on IBM's public dataset.*
+
+
 ### **Business Value: +$13,300 Monthly Revenue Impact**
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
