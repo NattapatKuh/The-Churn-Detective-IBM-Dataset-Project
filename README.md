@@ -34,6 +34,13 @@ In a dataset where 73% of customers stay, a "lazy" model is 73% accurate but wor
 | **Baseline (Decision Tree)** | 76% | 63% | $73,450 |
 | **Optimized (Random Forest)** | **74%** | **76%** | **$86,750** |
 
+> *Result from Random Forrest model as consution matrix*
+
+![Confusion Matrix](images/IBM-churn-Confusion-Matrix-Random-Forrest.png)
+
+> *Regard that Decision the lower performance when using Decision Tree, it does give a clear logic (White box) of how to determined and predict customer's future state*
+
+![Decision Logic](images/IBM-churn-Decision_logic.png)
 
 ---
 
